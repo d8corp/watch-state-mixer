@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/d8corp/watch-state-mixer",
   "dependencies": {
-    "watch-state": "^1.1.1"
+    "watch-state": "^1.2.0"
   }
 }
